@@ -1,4 +1,4 @@
-package com.yfedyna.Dishes;
+package com.yfedyna.dishes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

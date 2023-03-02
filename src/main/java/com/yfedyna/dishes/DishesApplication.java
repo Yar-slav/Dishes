@@ -1,4 +1,4 @@
-package com.yfedyna.Dishes;
+package com.yfedyna.dishes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
